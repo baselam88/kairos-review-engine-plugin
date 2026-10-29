@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Runs the post-job review ask: right moment, right channel, owner-voice wording that lifts review volume (labelled estimate 3-5x over 90 days).",
+  "keywords": [
+    "engine",
+    "kairos",
+    "review",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-review-engine",
+  "repository": "https://github.com/baselam88/kairos-review-engine-plugin",
+  "version": "0.1.0"
+}
